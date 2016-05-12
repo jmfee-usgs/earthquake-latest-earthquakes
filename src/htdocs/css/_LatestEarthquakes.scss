@@ -134,6 +134,10 @@ body {
     width: 320px;
   }
 
+  .mode-map > .latest-earthquakes-list {
+    resize: horizontal;
+  }
+
   /** show views when mode enabled (reset for hide rules). */
   .mode-list > .latest-earthquakes-list,
   .mode-map > .latest-earthquakes-map,
